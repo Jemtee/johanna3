@@ -13,7 +13,6 @@
     "dev:beauty": "yarn workspace @blog/beauty develop",
     "build:beauty": "yarn workspace @blog/beauty build",
     "serve:beauty": "yarn workspace @blog/beauty serve"
-
   },
   "devDependencies": {
     "husky": "^7.0.4",
@@ -31,5 +30,9 @@
     "*.{js,md,css}": [
       "prettier --trailing-comma es5 --single-quote --write"
     ]
+  },
+  "dependencies": {
+    "gatsby-plugin-netlify-cms": "^6.5.0",
+    "netlify-cms-app": "^2.15.63"
   }
 }

@@ -55,6 +55,7 @@ module.exports = {
           //     strict: `ignore`,
           //   },
           // },
+          `gatsby-plugin-netlify-cms`,
           {
             resolve: `gatsby-remark-mermaid`,
           },
