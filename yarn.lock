@@ -10572,13 +10572,6 @@ katex@^0.13.1:
   dependencies:
     commander "^8.0.0"
 
-katex@^0.15.1:
-  version "0.15.1"
-  resolved "https://registry.npmjs.org/katex/-/katex-0.15.1.tgz"
-  integrity sha512-KIk+gizli0gl1XaJlCYS8/donGMbzXYTka6BbH3AgvDJTOwyDY4hJ+YmzJ1F0y/3XzX5B9ED8AqB2Hmn2AZ0uA==
-  dependencies:
-    commander "^8.0.0"
-
 keyv@^3.0.0:
   version "3.1.0"
   resolved "https://registry.npmjs.org/keyv/-/keyv-3.1.0.tgz"
